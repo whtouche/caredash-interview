@@ -2,7 +2,9 @@
 
 This is a `React` application created with `create-react-app`. It uses `react-router` for routing but otherwise has no external dependencies.
 
-I used (Hipster Ipsum)[https://hipsum.co/] for the dummy text.
+This application is deployed using `Now` and can be accessed at https://caredash-msppwpbhji.now.sh
+
+I used [Hipster Ipsum](https://hipsum.co/) for the dummy text.
 
 The Menu Item dropdowns contain buttons that do not trigger any routing or linking behavior.
 
